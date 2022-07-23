@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "openweather-api-node": "^1.4.1",
     "openweather-apis": "^4.4.2"
   }
 }
