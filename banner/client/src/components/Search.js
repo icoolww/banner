@@ -1,5 +1,6 @@
+
 const Search = () => {
-      return ('Search')
+      return ("Search")
 }
 
 export default Search;
