@@ -1,13 +1,13 @@
-// import logo from './logo.svg';
-// import './App.css';
-// import Search from './components/Search';
+import logo from './logo.svg';
+import './App.css';
+import Search from './components/Search';
 
-// function App() {
-//   return (
-//     <div className="container">
-//      <Search />
-//     </div>
-//   );
-// }
+function App() {
+  return (
+    <div className="container">
+     <Search />
+    </div>
+  );
+}
 
-// export default App;
+export default App;
